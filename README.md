@@ -21,3 +21,5 @@ alt="Agung" width="500" height="280" border="10" /></a>
 [COMET](http://comet.nerc.ac.uk/)
 
 COMET webinar available [HERE](https://www.youtube.com/channel/UCtFDytX1hgjvlS4NH48M2oQ/videos)
+
+<img src="https://people.maths.bris.ac.uk/~macpd/logo_transparent.gif" width="256" height="75"> <img src="https://community.dur.ac.uk/richard.walters/figures/COMET_Horizontal_Colour.jpg" width="266" height="100">
