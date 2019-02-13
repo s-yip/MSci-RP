@@ -1,0 +1,16 @@
+WIDTH   838
+FILE_LENGTH   605
+XMIN          0
+XMAX          838
+YMIN          0
+YMAX          605
+X_FIRST          115.1640000
+Y_FIRST           -8.1960000
+X_STEP             0.000833330000000
+Y_STEP            -0.000833330000000
+X_UNIT        degres
+Y_UNIT        degres
+Z_OFFSET      0
+Z_SCALE       1
+PROJECTION    LATLON
+DATUM         WGS84
